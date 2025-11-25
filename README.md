@@ -1,27 +1,27 @@
-<!-- Animated Banner -->
+<!-- MAIN ANIMATED TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7DF9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Ghuge;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2800&color=6EE7FF&center=true&vCenter=true&width=760&lines=Hi+I'm+Harshal+Ghuge+👋;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Creating+Modern+%26+Beautiful+Web+Apps" />
 </p>
 
-<!-- Aesthetic Gradient Divider -->
+<!-- NEON GRADIENT LINE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-_____________________________-7DF9FF?style=flat&colorA=000&colorB=0a192f" />
+  <img src="https://i.imgur.com/JSYQ9Wk.gif" width="600"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I’m **Harshal Ghuge**, an Integrated MCA student & passionate **Full Stack Web Developer**  
-who loves creating clean, modern & scalable applications.
+## 👨‍💻 About Me  
+I'm **Harshal Ghuge**, an Integrated MCA student and passionate **Full Stack Developer** focused on building clean, fast, modern and scalable web applications.
 
-- 🔭 Working on **Full-Stack Projects**
-- 🌱 Learning: React, Node.js, Cloud, Backend APIs
-- 🚀 Strong focus on **Clean Code + UI/UX**
+- 🔥 MERN Stack Developer  
+- 🚀 Love building beautiful UI + powerful backend  
+- 🎯 Passion for Clean Code & Smooth User Experience  
+- 🌱 Currently learning Cloud Deployment & System Architecture  
 - 📫 Email: **ghugeh05@gmail.com**
 
 ---
 
-## 🎨 Tech Stack
+# 🚀 Tech Stack
 
 ### 🌐 Frontend
 <p>
@@ -38,69 +38,79 @@ who loves creating clean, modern & scalable applications.
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ☁ Tools & Cloud
+### ☁ Cloud & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,postman,git,docker,githubactions" />
 </p>
 
 ---
 
-<!-- Soft Divider -->
+<!-- BLUE NEON DIVIDER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-──────────────────────────────-ff79c6?style=flat&colorA=000&colorB=0a192f" />
+  <img src="https://i.imgur.com/zYhf9vR.gif" width="450"/>
 </p>
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=harshalg369&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+# 🔥 Most Used Languages  
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- Clean Divider -->
+<!-- PINK ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-═══════════════════════════-a29bfe?style=flat&colorA=000&colorB=0a192f" />
+  <img src="https://i.imgur.com/LyHic3i.gif" width="300"/>
 </p>
 
-## 🧩 Featured Projects
+# 🧩 Featured Projects
 
-### 📚 Bookstore Management System
-- MERN Stack (MongoDB, Express, React, Node.js)  
+### 📚 Bookstore Management System  
+- Full MERN Stack  
 - Secure REST API + CRUD  
-- Inventory, users, orders, sales tracking  
-
-### 🎬 Movie Recommendation System
-- Machine Learning (Python)  
-- User/User & Item/Item similarity  
-- Responsive UI + backend logic  
+- Manage inventory, users, orders, sales  
+- Clean & responsive UI  
 
 ---
 
-## 🌐 Connect with Me
+### 🎬 Movie Recommendation System  
+- Python + Machine Learning  
+- User & Item similarity algorithms  
+- Responsive front-end  
+- Fully integrated backend logic  
+
+---
+
+<!-- SOFT NEON LINE -->
+<p align="center">
+  <img src="https://i.imgur.com/JSYQ9Wk.gif" width="600"/>
+</p>
+
+# 🌐 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/harshal-ghuge-17666431a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46"/>
   </a>
   <a href="https://github.com/harshalg369">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github" width="46"/>
   </a>
 </p>
 
 ---
 
-## ✨ Fun Fact  
-⚡ *I love creating fast, beautiful & modern web apps!*
+# ✨ Fun Fact  
+⚡ *I love crafting fast, modern & beautiful web apps!*  
 
 ---
 
+<!-- SIGNATURE -->
 <p align="center">
-  🚀 Crafted with passion by <strong>Harshal Ghuge</strong>
+  🚀 Crafted with passion by <strong>Harshal Ghuge</strong> ✨
 </p>
