@@ -1,29 +1,27 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Ghuge;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=7DF9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshal+Ghuge;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Welcome+to+My+GitHub+Profile!" />
 </p>
 
-<!-- Airplane Divider -->
+<!-- Aesthetic Gradient Divider -->
 <p align="center">
-  ✈️ — — — — — — — — — — — — — — — — — — — — — — — ☁️
+  <img src="https://img.shields.io/badge/-_____________________________-7DF9FF?style=flat&colorA=000&colorB=0a192f" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Integrated MCA student & passionate **Full Stack Web Developer**  
-who loves building clean, scalable & user-friendly applications.
+I’m **Harshal Ghuge**, an Integrated MCA student & passionate **Full Stack Web Developer**  
+who loves creating clean, modern & scalable applications.
 
-- ⚡ Skilled in **React, Node.js, MongoDB, Express**
-- 🚀 Currently working on **Full-Stack Projects**
-- 🌱 Learning: Cloud, APIs, System Architecture
-- 🎯 Focus: Performance, Clean Code, UI/UX
+- 🔭 Working on **Full-Stack Projects**
+- 🌱 Learning: React, Node.js, Cloud, Backend APIs
+- 🚀 Strong focus on **Clean Code + UI/UX**
 - 📫 Email: **ghugeh05@gmail.com**
 
 ---
 
-<!-- Neon Title -->
-<h2 align="center">🚀 Tech Stack</h2>
+## 🎨 Tech Stack
 
 ### 🌐 Frontend
 <p>
@@ -40,19 +38,19 @@ who loves building clean, scalable & user-friendly applications.
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ☁ Cloud & Tools
+### ☁ Tools & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,postman,git,docker,githubactions" />
 </p>
 
 ---
 
-<!-- Flight Line -->
+<!-- Soft Divider -->
 <p align="center">
-  <img width="500" src="https://i.imgur.com/dBaSKWF.gif" alt="divider"/>
+  <img src="https://img.shields.io/badge/-──────────────────────────────-ff79c6?style=flat&colorA=000&colorB=0a192f" />
 </p>
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=harshalg369&theme=tokyonight" />
@@ -67,50 +65,42 @@ who loves building clean, scalable & user-friendly applications.
 
 ---
 
-<!-- Animated ZigZag Divider -->
+<!-- Clean Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400"/>
+  <img src="https://img.shields.io/badge/-═══════════════════════════-a29bfe?style=flat&colorA=000&colorB=0a192f" />
 </p>
 
 ## 🧩 Featured Projects
 
 ### 📚 Bookstore Management System
-- Full MERN Application  
-- Secure RESTful API + CRUD  
-- Manage Books, Users, Inventory, Sales  
-- Clean UI + optimized backend  
-
----
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Secure REST API + CRUD  
+- Inventory, users, orders, sales tracking  
 
 ### 🎬 Movie Recommendation System
 - Machine Learning (Python)  
 - User/User & Item/Item similarity  
-- Responsive UI + backend integration  
-- Data-driven recommendation engine  
+- Responsive UI + backend logic  
 
 ---
 
-<!-- Social -->
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/harshal-ghuge-17666431a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="46"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
   <a href="https://github.com/harshalg369">
-    <img src="https://skillicons.dev/icons?i=github" width="46"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
 </p>
 
 ---
 
-## ✨ Fun Fact
-⚡ *I love crafting fast, beautiful & modern web apps!*
+## ✨ Fun Fact  
+⚡ *I love creating fast, beautiful & modern web apps!*
 
-<!-- Final Signature -->
-<p align="center">
-  <img src="https://i.imgur.com/s6q7Y8E.gif" width="300"/>
-</p>
+---
 
 <p align="center">
-  🚀 Crafted with passion by <strong>Harshal Ghuge</strong> ✨
+  🚀 Crafted with passion by <strong>Harshal Ghuge</strong>
 </p>
