@@ -42,15 +42,16 @@ Building scalable, modern & efficient web applications with clean code principle
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=harshalg369&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </p>
+
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" />
 </p>
 
 ---
