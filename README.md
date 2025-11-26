@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2500&pause=1200&color=8AB4F8&center=true&vCenter=true&width=1000&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Developer+%7C+Digital+Craftsman;MERN+Stack+Creator+%7C+Integrated+MCA;Designing+Futures+Through+Code+%26+Creativity" alt="typing" />
-</p>
+<!-- 🌌✨ Ultra-Aesthetic Animated Intro Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontSize=20&text=Full%20Stack%20Development%20%E2%9C%A8%20MERN%20Stack%20Artisan" alt="Header Divider"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=2300&pause=900&color=C9E9FF&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Developer+%7C+Digital+Craftsman;MERN+Stack+Creator+%7C+Integrated+MCA;Crafting+Experiences+That+Feel+Alive+%26+Beautiful" alt="typing-animation" />
 </p>
+
+<!-- 🌈✨ Animated Gradient Wave Divider (Upgraded Styling) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Full%20Stack%20Development%20%E2%9C%A8%20MERN%20Stack%20Artisan&fontSize=30&fontAlign=50&fontColor=F5F8FF&color=gradient&customColorList=0,2,4,13,17" alt="wave header"/>
+</p>
+
 
 ## ✨ About Harshal
 
