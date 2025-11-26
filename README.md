@@ -41,22 +41,22 @@ I'm an Integrated MCA student and a dedicated **Full Stack Web Developer** focus
 
 ---
 
+
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10&layout=compact" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
 
+## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&text=Connect%20With%20Me" alt="Animated Footer Divider"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
+
+---
 
 ## 📧 Connect with Me
 
