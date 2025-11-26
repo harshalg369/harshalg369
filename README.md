@@ -1,77 +1,76 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Web+Developer;MERN+Stack+%7C+Integrated+MCA;Building+Fast%2C+Modern+%26+Scalable+Apps" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=87CEFA&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Web+Developer;MERN+Stack+Creator+%7C+Integrated+MCA;Crafting+Modern+%26+Scalable+Digital+Experiences" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=20&text=Full%20Stack%20Development%20%7C%20MERN%20Stack%20Expert" alt="Animated Header Divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&fontSize=20&text=Full%20Stack%20Development%20%E2%9C%A8%20MERN%20Stack%20Artisan" alt="Header Divider"/>
 </p>
 
 ## ✨ About Harshal
 
-> 🚀 **"A Full Stack Developer passionate about crafting modern, efficient, and user-centric software solutions from concept to deployment."**
+> 🌙 **"I build software the way artists paint galaxies — shaping ideas into experiences that feel alive, intuitive, and beautifully engineered."**
 
-I'm an Integrated MCA student and a dedicated **Full Stack Web Developer** focused on the **MERN Stack** (MongoDB, Express, React, Node.js). My expertise spans from building **responsive UIs** to developing **secure, scalable backends**.
+I'm an Integrated MCA student and a **Full Stack Web Developer** immersed in the **MERN Stack**.  
+I design interfaces that breathe with clarity, and architect backends that stand resilient and elegant.
 
-- **Focus:** Clean Code, Problem-Solving, and delivering exceptional User Experience.
-- **Skills:** RESTful API Development, Database Schema Design, CI/CD with Docker & GitHub Actions.
-- **Contact:** ghugeh05@gmail.com
+- **Focus:** Minimalistic code, graceful logic, and seamless user experiences.  
+- **Skills:** REST APIs, scalable architectures, schema design, CI/CD with Docker & GitHub Actions.  
+- **Reach Me:** **ghugeh05@gmail.com**
 
 ---
 
 ## 🛠️ Core Tech Stack
 
-### **🌐 Frontend & Backend Core**
+### 🌐 **Frontend & Backend Craft**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,rest,html,css" alt="Core Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,rest,html,css" alt="Core Stack Icons"/>
 </p>
 
-### **🗄️ Database, Cloud & Tools**
+### 🗄️ **Databases, Cloud & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,githubactions,git,postman,vercel" alt="Tools Icons"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,githubactions,git,postman,vercel" alt="Tools Icons"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
+*A glimpse into the worlds I’ve built through code.*
 
 | Project Name | Stack & Key Feature |
-| :--- | :--- |
-| **📚 Bookstore Management System** | **MERN Stack.** Full-stack application with **secure REST API development** and implemented inventory, user, and sales tracking using **optimized CRUD operations**. |
-| **🎬 Movie Recommendation System** | **Python & ML Algorithms.** Data-driven system using **similarity-based models** (user-user & item-item) to deliver personalized suggestions with a **clean, responsive UI**. |
+|--------------|--------------------|
+| **📚 Bookstore Management System** | A MERN-powered ecosystem with secure REST APIs, flowing CRUD operations, and seamless tracking of inventory, users, and sales. |
+| **🎬 Movie Recommendation System** | A Python + ML-driven engine whispering personalized movie insights using similarity models, wrapped in a clean and responsive UI. |
 
 ---
 
-
-## 📈 GitHub Insights
-
+## 📈 GitHub Insights  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" alt="streak stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Most Used Languages  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📧 Connect with Me
-
+## 📧 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshal-ghuge-17666431a/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cache=no" width="160" alt="LinkedIn Profile"/>
-  </a>
-  <a href="https://github.com/harshalg369" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-harshalg369-100000?style=for-the-badge&logo=github&logoColor=white&cache=no" width="160" alt="GitHub Profile"/>
-  </a>
-  <a href="mailto:ghugeh05@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&cache=no" width="160" alt="Email Harshal"/>
-  </a>
+  <a href="https://www.linkedin.com/in/harshal-ghuge-17666431a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Explore%20My%20Journey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="190"/>
+  </a>
+  <a href="https://github.com/harshalg369" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-My%20Code%20Universe-100000?style=for-the-badge&logo=github&logoColor=white" width="190"/>
+  </a>
+  <a href="mailto:ghugeh05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="190"/>
+  </a>
 </p>
 
 <p align="center">
-  🌟 *Crafted with passion by Harshal Ghuge.* 🌟
+  🌌 *Hand-crafted with passion, curiosity, and a little stardust — by Harshal Ghuge.* 🌌
 </p>
