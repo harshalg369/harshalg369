@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2000&color=87CEFA&center=true&vCenter=true&width=900&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Web+Developer;MERN+Stack+Creator+%7C+Integrated+MCA;Crafting+Modern+%26+Scalable+Digital+Experiences" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2500&pause=1200&color=8AB4F8&center=true&vCenter=true&width=1000&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Developer+%7C+Digital+Craftsman;MERN+Stack+Creator+%7C+Integrated+MCA;Designing+Futures+Through+Code+%26+Creativity" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&fontSize=20&text=Full%20Stack%20Development%20%E2%9C%A8%20MERN%20Stack%20Artisan" alt="Header Divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontSize=20&text=Full%20Stack%20Development%20%E2%9C%A8%20MERN%20Stack%20Artisan" alt="Header Divider"/>
 </p>
 
 ## ✨ About Harshal
 
-> 🌙 **"I build software the way artists paint galaxies — shaping ideas into experiences that feel alive, intuitive, and beautifully engineered."**
+> 🌌 **"I turn imagination into interactive experiences — crafting software that feels alive, fluid, and beautifully intentional."**
 
-I'm an Integrated MCA student and a **Full Stack Web Developer** immersed in the **MERN Stack**.  
-I design interfaces that breathe with clarity, and architect backends that stand resilient and elegant.
+I'm an Integrated MCA student and a **Full Stack Web Developer** flowing through the **MERN Stack**.  
+I build digital spaces where logic meets artistry, and usability meets elegance.
 
-- **Focus:** Minimalistic code, graceful logic, and seamless user experiences.  
-- **Skills:** REST APIs, scalable architectures, schema design, CI/CD with Docker & GitHub Actions.  
+- **Focus:** Intuitive UI/UX, scalable backend engineering, and clean architecture.  
+- **Skills:** REST APIs, advanced schema design, CI/CD pipelines, Docker automation.  
 - **Reach Me:** **ghugeh05@gmail.com**
 
 ---
 
 ## 🛠️ Core Tech Stack
 
-### 🌐 **Frontend & Backend Craft**
+### 🌐 **Frontend & Backend Craftsmanship**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,rest,html,css" alt="Core Stack Icons"/>
 </p>
@@ -34,26 +34,21 @@ I design interfaces that breathe with clarity, and architect backends that stand
 ---
 
 ## 🌟 Featured Projects  
-*A glimpse into the worlds I’ve built through code.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=700&color=FFB6C1&center=true&vCenter=true&width=800&lines=Where+Ideas+Transform+Into+Digital+Realities...;Where+Logic+Meets+Art+In+Every+Line+Of+Code...;Where+My+Imagination+Breathes+Into+Projects..." />
+</p>
 
 | Project Name | Stack & Key Feature |
 |--------------|--------------------|
-| **📚 Bookstore Management System** | A MERN-powered ecosystem with secure REST APIs, flowing CRUD operations, and seamless tracking of inventory, users, and sales. |
-| **🎬 Movie Recommendation System** | A Python + ML-driven engine whispering personalized movie insights using similarity models, wrapped in a clean and responsive UI. |
+| **📚 Bookstore Management System** | A MERN-powered ecosystem with secure REST APIs, graceful CRUD workflows, and seamless management of inventory, users, and sales — engineered with precision & aesthetic structure. |
+| **🎬 Movie Recommendation System** | A poetic blend of Python & ML — whispering personalized recommendations using similarity models, wrapped in a clean, fluid, responsive interface. |
 
 ---
 
 ## 📈 GitHub Insights  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Most Used Languages  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalg369&layout=compact&theme=tokyonight" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
 </p>
 
 ---
@@ -72,5 +67,5 @@ I design interfaces that breathe with clarity, and architect backends that stand
 </p>
 
 <p align="center">
-  🌌 *Hand-crafted with passion, curiosity, and a little stardust — by Harshal Ghuge.* 🌌
+  ✨ *Designed with intention, imagination, and a touch of cosmic artistry — by Harshal Ghuge.* ✨
 </p>
