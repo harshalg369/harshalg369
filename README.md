@@ -1,75 +1,138 @@
-<!-- 🌌✨ Ultra-Aesthetic Animated Intro Banner -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=2300&pause=900&color=C9E9FF&center=true&vCenter=true&multiline=true&width=1100&height=120&lines=Hey+There%2C+I'm+Harshal+Ghuge+👋;Full+Stack+Developer+%7C+Digital+Craftsman;MERN+Stack+Creator+%7C+Integrated+MCA;Crafting+Experiences+That+Feel+Alive+%26+Beautiful" alt="typing-animation" />
-</p>
-
-<!-- 🌈✨ Animated Gradient Wave Divider (Upgraded Styling) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Full%20Stack%20Development%20%E2%9C%A8%20MERN%20Stack%20Artisan&fontSize=30&fontAlign=50&fontColor=F5F8FF&color=gradient&customColorList=0,2,4,13,17" alt="wave header"/>
-</p>
-
-
-## ✨ About Harshal
-
-> 🌌 **"I turn imagination into interactive experiences — crafting software that feels alive, fluid, and beautifully intentional."**
-
-I'm an Integrated MCA student and a **Full Stack Web Developer** flowing through the **MERN Stack**.  
-I build digital spaces where logic meets artistry, and usability meets elegance.
-
-- **Focus:** Intuitive UI/UX, scalable backend engineering, and clean architecture.  
-- **Skills:** REST APIs, advanced schema design, CI/CD pipelines, Docker automation.  
-- **Reach Me:** **ghugeh05@gmail.com**
+<h1 align="center">Hi 👋, I'm Harshal Ashok Ghuge</h1>
+<h3 align="center">Full Stack Web Developer | Integrated MCA Student | Problem Solver</h3>
 
 ---
 
-## 🛠️ Core Tech Stack
-
-### 🌐 **Frontend & Backend Craftsmanship**
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,rest,html,css" alt="Core Stack Icons"/>
-</p>
-
-### 🗄️ **Databases, Cloud & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,githubactions,git,postman,vercel" alt="Tools Icons"/>
+<a href="https://linkedin.com/in/vedant-ghuge-a4b679293" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+<a href="mailto:ghugeh05@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.icons8.com/color/48/discord-logo.png"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+</a>
 </p>
 
 ---
 
-## 🌟 Featured Projects  
+## 🎮 Aesthetic Developer Setup (GIF)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=700&color=FFB6C1&center=true&vCenter=true&width=800&lines=Where+Ideas+Transform+Into+Digital+Realities...;Where+Logic+Meets+Art+In+Every+Line+Of+Code...;Where+My+Imagination+Breathes+Into+Projects..." />
-</p>
-
-| Project Name | Stack & Key Feature |
-|--------------|--------------------|
-| **📚 Bookstore Management System** | A MERN-powered ecosystem with secure REST APIs, graceful CRUD workflows, and seamless management of inventory, users, and sales — engineered with precision & aesthetic structure. |
-| **🎬 Movie Recommendation System** | A poetic blend of Python & ML — whispering personalized recommendations using similarity models, wrapped in a clean, fluid, responsive interface. |
-
----
-
-## 📈 GitHub Insights  
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-9bb7452f-7d22-48cf-9150-083f11b00d6c.gif" 
+       alt="coding gif" width="750"/>
 </p>
 
 ---
 
-## 📧 Connect with Me  
+## 🧑‍💻 About Me
+
+I'm an **Integrated MCA student** and **Full Stack Web Developer** passionate about  
+building **scalable, responsive and user-focused applications**.
+
+🚀 I specialize in **React.js, Node.js, Express.js, Firebase, MongoDB**  
+🧠 Strong in clean coding, problem-solving & modern engineering principles  
+📦 Experienced in REST API development & database schema design  
+🌩️ Familiar with Serverless Architecture & MCA-level software design  
+📫 Reach me: **ghugeh05@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+- TypeScript  
+- JavaScript  
+- HTML5, CSS3  
+
+### **Frameworks & Libraries**
+- React.js  
+- Node.js  
+- Express.js  
+- RESTful API Development  
+
+### **Databases**
+- MongoDB  
+- MySQL  
+- Data Modeling & CRUD  
+- Database Schema Design  
+
+### **Cloud / DevOps**
+- Firebase  
+- Docker  
+- GitHub Actions (CI/CD)  
+- Postman  
+- Vercel Deployment  
+
+### **Soft Skills**
+- Team Collaboration  
+- Effective Communication  
+- Analytical Problem-Solving  
+- Product Thinking & Attention to Detail  
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 **Bookstore Management System (MERN)**
+- Full-stack MERN application  
+- Secure REST APIs  
+- Features: Inventory, Orders, Authentication, Sales Tracking  
+- Optimized CRUD operations & modular code  
+- Agile workflow + Git version control  
+
+---
+
+### 🎬 **Movie Recommendation System (ML + Web UI)**
+- Created using Python + ML recommendation algorithms  
+- User–User & Item–Item similarity models  
+- Fast & accurate suggestion logic  
+- Built responsive HTML/CSS Frontend  
+- Integrated backend interaction for smooth UI/UX  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshal-ghuge-17666431a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Explore%20My%20Journey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="190"/>
-  </a>
-  <a href="https://github.com/harshalg369" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-My%20Code%20Universe-100000?style=for-the-badge&logo=github&logoColor=white" width="190"/>
-  </a>
-  <a href="mailto:ghugeh05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="190"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
+---
+
+## 📈 GitHub Contribution Graph
 <p align="center">
-  ✨ *Designed with intention, imagination, and a touch of cosmic artistry — by Harshal Ghuge.* ✨
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎓 Education (from your PDF)
+- **Integrated MCA (Full Stack Web Development)** — Parul University  
+  CGPA: **6.99 / 10**
+
+- **Diploma – Fitter (ITI Panvel, Navi Mumbai)**  
+  Percentage: **62.03%**
+
+- **12th MSBSHSE – Manmad, Nashik**  
+  Percentage: **47.38%**
+
+---
+
+## 🏅 Certifications
+- JavaScript Training & Online Examination – **IIT Bombay (EduPyramids, SINE)** — *Score: 80%*  
+- Certificate of Participation – **Projections (Annual Technical Festival)**  
+  Event: *Trade Tycoon*
+
+---
