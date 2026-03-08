@@ -36,13 +36,7 @@ https://github.com/harshalg369/ai-recruiter-system
 
 ## Other Projects
 
-### Bookstore Management System
-• Developed a full-stack MERN application with RESTful APIs, authentication and role-based access.  
-• Designed and managed MongoDB collections for inventory, users, orders and sales tracking.
-
-### Forest Guardian
-• Built a modern frontend using React + TypeScript with reusable UI components and Tailwind CSS.  
-• Improved application performance using Vite and component-level optimization.
+deva farm : https://github.com/harshalg369/deva_farm/releases
 
 ---
 
