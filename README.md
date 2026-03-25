@@ -47,7 +47,7 @@
 
 # 🚀 Featured Projects
 
-## 🌾 Agriculture Waste Management App
+## 🌾 Agriculture Waste Management App.
 
 A **cross-platform mobile application** built with **Flutter and Dart** to help farmers efficiently track, manage, and analyze agricultural waste.
 
