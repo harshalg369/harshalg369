@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Harshal Ashok Ghuge</h1>
-<h3 align="center">🚀 Full Stack & Flutter Developer</h3>
+<h3 align="center">🚀 Python Developer | Generative AI Engineer | Backend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+Developer;MERN+Stack+Developer;AI+Projects+Builder;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Generative+AI+Engineer;Backend+Developer;MERN+Stack+Developer;Building+Real-World+AI+Solutions" />
 </p>
 
 ---
 
 # 💫 About Me
 
-👨‍💻 Hi, I'm **Harshal Ghuge**
+👨‍💻 I'm **Harshal Ghuge**, an MCA graduate specializing in **Python, Backend Development, and Generative AI**
 
-🚀 Full Stack & Flutter Developer passionate about building scalable **web and mobile applications**
+🚀 I build scalable applications and intelligent systems combining **AI + Backend + Full Stack technologies**
 
-🔭 Currently working on **Flutter and MERN Stack projects**
-🤝 Looking to collaborate on **Open Source Web & Mobile App projects**
-🌱 Currently learning **Docker, Clean Architecture, and advanced backend development**
-💬 Ask me about **Flutter, React, Node.js, MongoDB, REST APIs, and Firebase**
-⚡ Fun fact: I enjoy building **tech solutions that solve real-world problems**, especially in agriculture and productivity 🚜
+🔭 Currently working on **AI-powered applications and backend systems**
+
+🌱 Learning **Advanced Backend Architecture, Docker, and AI Integration**
+
+💬 Ask me about **Python, Generative AI, REST APIs, Node.js, MongoDB**
+
+⚡ I enjoy building **real-world solutions**, especially in domains like **automation, recruitment, and agriculture**
 
 ---
 
@@ -33,6 +35,10 @@
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/harshalg369">
+<img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -40,23 +46,65 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,flutter,dart,python,docker,git,github,postman,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,express,mongodb,react,firebase,docker,git,github,postman,html,css" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 Agriculture Waste Management App.
+## 🤖 AI Recruiter System
 
-A **cross-platform mobile application** built with **Flutter and Dart** to help farmers efficiently track, manage, and analyze agricultural waste.
+An **AI-powered recruitment system** that automates resume screening and candidate evaluation using LLMs.
 
-### ✨ Key Features
+### ✨ Key Highlights
 
-• Developed using **Flutter & Dart in Android Studio** for cross-platform support
-• Designed a **modern and responsive mobile UI with Dark Mode** for better usability
-• Implemented **waste management tracking and analytics visualization**
-• Helps farmers monitor **waste categories and improve sustainable farming practices**
+• Built using **Python, Streamlit, and Llama3 (LLM)**
+• Implemented **resume parsing and intelligent candidate scoring (0–100)**
+• Extracts **skills, experience, and education** using AI
+• Interactive dashboard for **multi-resume analysis and reporting**
+
+### 🛠 Tech Stack
+
+Python • Streamlit • LLM (Llama3) • Pandas • NLP
+
+### 🔗 Repository
+
+https://github.com/harshalg369/ai-recruiter-system
+
+---
+
+## 🛒 Bookstore Management System (MERN Stack)
+
+A **full-stack web application** to manage books, users, and orders with efficient backend APIs.
+
+### ✨ Key Highlights
+
+• Developed **RESTful APIs** using Node.js & Express
+• Implemented **authentication and CRUD operations**
+• Designed **MongoDB database schema** for scalability
+• Built complete **end-to-end MERN application**
+
+### 🛠 Tech Stack
+
+MongoDB • Express.js • React • Node.js • REST API
+
+### 🔗 Repository
+
+(Add your repo link here)
+
+---
+
+## 🌾 Agriculture Waste Management App
+
+A **cross-platform mobile app** designed to help farmers manage and analyze agricultural waste.
+
+### ✨ Key Highlights
+
+• Built using **Flutter & Dart**
+• Developed **modern UI with analytics dashboard**
+• Helps track and categorize **agricultural waste efficiently**
+• Focused on solving **real-world environmental challenges**
 
 ### 🛠 Tech Stack
 
@@ -68,24 +116,13 @@ https://github.com/harshalg369/deva_farm/releases
 
 ---
 
-## 🤖 AI Recruiter System
+# 📊 GitHub Stats
 
-AI-powered recruitment assistant for **resume analysis and candidate shortlisting**
-
-### ✨ Key Features
-
-• Automated **resume parsing and candidate evaluation**
-• AI based **skills and experience extraction**
-• **Candidate scoring and ranking system (0-100)**
-• Streamlit dashboard for **multi-resume analysis and downloadable reports**
-
-### 🛠 Tech Stack
-
-Python • Streamlit • Ollama • Llama3 • Pandas
-
-### 🔗 Repository
-
-https://github.com/harshalg369/ai-recruiter-system
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshalg369&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalg369&theme=tokyonight" />
+</p>
 
 ---
 
@@ -97,4 +134,4 @@ https://github.com/harshalg369/ai-recruiter-system
 
 ---
 
-⭐ From **Harshal Ghuge**
+⭐ From **Harshal Ghuge** | Building AI + Backend Solutions 🚀
